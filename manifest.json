@@ -1,7 +1,7 @@
 {
   "vendor": "valtech",
   "name": "saludo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Saludo",
   "description": "Saludo component",
   "defaultLocale": "pt-BR",
